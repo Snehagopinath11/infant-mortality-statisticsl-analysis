@@ -1,4 +1,4 @@
-# infant-mortality-statisticsl-analysis
+# infant-mortality-statistical-analysis
 
 Statistical Analysis of Infant Mortality: A Time Series and Cluster Approach
 
